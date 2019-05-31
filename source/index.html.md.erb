@@ -1,0 +1,55 @@
+---
+title: DSS Security Operating Procedures
+last_reviewed_on: 2019-05-31
+review_in: 12 months
+---
+
+# Security Operating Procedures
+
+## Introduction
+
+Digital Shared Services (DSS) uses the NCSC's guidance document [Secure development and deployment][1]
+to understand the security risks of modern code development and to establish working practices or Security
+Operating Procedures (SyOPS) to mitigate against these risks.
+
+This document details the SyOPS DSS has put in place to be compliant with each of NCSC's eight principles
+of secure development and deployment:
+
+1. [Secure development is everyone's concern](#1-secure-development-is-everyone-39-s-concern)
+2. [Keep your security knowledge sharp](#2-keep-your-security-knowledge-sharp)
+3. Produce clean and maintainable code
+4. Secure your development environment
+5. Protect your code repository
+6. Secure the build and deployment pipleline
+7. Continually test your security
+8. Plan for security flaws
+
+You should read this document alongside the NCSC guidance.
+
+The intended audience for this document is:
+
+- DSS development staff who use it as a reference guide to protecting customer's data
+- DSS customers who will use it to gauge our security maturity
+
+## Principles
+
+<%= partial 'documentation/secure-development' %>
+<%= partial 'documentation/security-knowledge' %>
+<%= partial 'documentation/clean-code' %>
+<%= partial 'documentation/secure-environment' %>
+<%= partial 'documentation/protect-repository' %>
+<%= partial 'documentation/secure-pipeline' %>
+<%= partial 'documentation/continually-test' %>
+<%= partial 'documentation/plan-for-flaws' %>
+
+## Access Management
+
+<%= partial 'documentation/access-management' %>
+
+### Access to and use of live (production) data
+
+### Secure Remote Access
+
+## Incident Reporting
+
+[1]: https://www.ncsc.gov.uk/collection/developers-collection
