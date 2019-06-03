@@ -12,11 +12,11 @@ Team members must complete our Security Fundamentals training programme before b
 
 - Managing Information Effectively (e-Learning)
 
-- [A Guide to Physical, Document and IT Security](http://nics.intranet.nigov.net/nics/documents/guide-physical-document-and-it-security)<sup>[NICS Intranet link]</sup>
+- [A Guide to Physical, Document and IT Security](http://nics.intranet.nigov.net/nics/documents/guide-physical-document-and-it-security)
 
-- [NICS Mobile Device Security Policy](http://nics.intranet.nigov.net/nics/documents/nics-mobile-device-security-policy)<sup>[NICS Intranet link]</sup>
+- [NICS Mobile Device Security Policy](http://nics.intranet.nigov.net/nics/documents/nics-mobile-device-security-policy)
 
-- [DoF IT Data Security - Securing Personal Data](http://nics.intranet.nigov.net/nics/documents/of-it-data-security-securing-personal-data)<sup>[NICS Intranet link]</sup>
+- [DoF IT Data Security - Securing Personal Data](http://nics.intranet.nigov.net/nics/documents/of-it-data-security-securing-personal-data)
 
 Having completed Security Fundamentals, Junior Developers will work in a sandboxed environment where they will learn about design patterns, code quality and security. They will learn through pair programming, code reviews by more senior colleagues and through formal training.
 
